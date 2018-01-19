@@ -9,7 +9,6 @@
 		<unique-terms>267318</unique-terms>
 	</corpus>
 	<fields></fields>
-	<indri-distribution>Indri development release 5.8</indri-distribution>
+	<indri-distribution>Indri release 5.11</indri-distribution>
 	<type>DiskIndex</type>
 </parameters>
-
