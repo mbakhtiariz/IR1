@@ -110,4 +110,4 @@ ENV/
 /HW2/trec_eval/*
 
 # results folder
-/HW2/results/*
+/HW2/run_files/*
