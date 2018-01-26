@@ -108,3 +108,6 @@ ENV/
 
 # trec_eval
 /HW2/trec_eval/*
+
+# results folder
+/HW2/results/*
