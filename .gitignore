@@ -105,3 +105,6 @@ ENV/
 /HW2/index/index/31/directFile
 /HW2/index/index/31/invertedFile
 /HW2/first_run/*
+
+# trec_eval
+/HW2/trec_eval/*
