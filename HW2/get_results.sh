@@ -1,4 +1,4 @@
-qrel_set='validation'
+qrel_set='test'
 echo -n > results_$qrel_set.txt
 for f in run_files/*.run
 do
